@@ -63,6 +63,13 @@ export KIBANA_HOME=~/Apps/kibana-7.16.2
 export PATH=$PATH:$KIBANA_HOME/bin
 ```
 
+
+### Levantar o serviço Kibana
+
+```shell
+$ kibana
+```
+
 ### Teste de funcionamento do serviço
 
 Acesse a url:
