@@ -67,7 +67,7 @@ export PATH=$PATH:$KIBANA_HOME/bin
 ### Levantar o serviço Kibana
 
 ```shell
-$ kibana
+kibana
 ```
 
 ### Teste de funcionamento do serviço
