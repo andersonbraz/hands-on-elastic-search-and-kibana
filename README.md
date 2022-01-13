@@ -40,7 +40,7 @@ ou acesse a url:
 ### Baixar pacote do Kibana
 
 ```
-https://artifacts.elastic.co/downloads/kibana/kibana-7.16.2-darwin-x86_64.tar.gz
+wget https://artifacts.elastic.co/downloads/kibana/kibana-7.16.2-darwin-x86_64.tar.gz
 ```
 
 ### Descompactar pacote do Elastic Search
