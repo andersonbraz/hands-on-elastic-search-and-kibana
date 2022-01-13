@@ -49,7 +49,7 @@ wget https://artifacts.elastic.co/downloads/kibana/kibana-7.16.2-darwin-x86_64.t
 tar -xvf kibana-7.16.2-darwin-x86_64.tar.gz
 ```
 
-### Renomear nome diretório (nome mais curto)
+### Renomear diretório (nome mais curto)
 
 ```shell
 mv kibana-7.16.2-darwin-x86_64 kibana-7.16.2
