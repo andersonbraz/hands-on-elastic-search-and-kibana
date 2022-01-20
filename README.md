@@ -3,6 +3,12 @@
 
 ## Elastic Search
 
+## Criar e Acessar o diretório Apps
+
+```shell
+mkdir -p ~/Apps
+cd ~/Apps
+```
 ### Baixar pacote do Elastic Search
 
 ```shell
